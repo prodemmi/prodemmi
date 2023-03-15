@@ -1,10 +1,15 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYzZjM0Y2ZjNDI4M2NmMmJlNWM0NjhlMjQyMGY4MzBlMTJkZjQzZCZjdD1n/KNP5EQE5n2nczSFYpD/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYzZjM0Y2ZjNDI4M2NmMmJlNWM0NjhlMjQyMGY4MzBlMTJkZjQzZCZjdD1n/KNP5EQE5n2nczSFYpD/giphy.gif" width="160"/>
 </div>
 
 <div id="badges" align="center">
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=prodemmi&style=flat-square&color=blue" alt=""></p>
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fprodemmi">
+<!--   <p align="center"><img src="https://komarev.com/ghpvc/?username=prodemmi&style=flat-square&color=blue" alt=""></p> -->
+  <a href="https://twitter.com/prodemmi">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+  </a>
+  <a href="mailto:prodemmi@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46"></h1>
