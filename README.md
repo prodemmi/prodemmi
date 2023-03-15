@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-<!--   <p align="center"><img src="https://komarev.com/ghpvc/?username=prodemmi&style=flat-square&color=blue" alt=""></p> -->
-  <a href="https://twitter.com/prodemmi">
+  <a href="https://twitter.com/prodemmi" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
-  <a href="mailto:prodemmi@gmail.com">
+  <a href="mailto:prodemmi@gmail.com?subject=From github" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+<!--   <p align="center"><img src="https://komarev.com/ghpvc/?username=prodemmi&style=flat-square&color=blue" alt=""></p> -->
 </div>
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46"></h1>
