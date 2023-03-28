@@ -12,7 +12,7 @@
 <!--   <p align="center"><img src="https://komarev.com/ghpvc/?username=prodemmi&style=flat-square&color=blue" alt=""></p> -->
 </div>
 
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46"></h1>
+<h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42"></h1>
 
 #### :man: About
 
@@ -20,7 +20,6 @@ I am a full stack developer with at least 5 years of work experience.
 Familiarity with troubleshooting and debugging and experienced in setup and
 maintenance servers and able to carry out projects in group cooperation and individually.
 Interested in learning and progressing in the field of programming.
-
 
 ---
 
@@ -33,17 +32,15 @@ Interested in learning and progressing in the field of programming.
  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="32" height="32"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="32" height="32"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="32" height="32"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="32" height="32"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="32" height="32"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="32" height="32"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="32" height="32"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="32" height="32"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="32" height="32"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="32" height="32"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="32" height="32"/>
 </div>
 
 ---
 
 ### ✍️ Blog Posts : 
-- [Deep dive into flutter pubspec](https://virgool.io/flutter-community/flutter-deep-dive-pubspec-r6mwk1rpzzau)
-- [Create api responses with laravel Apiful](https://medium.com/@prodemmi/create-api-responses-easily-with-apiful-738ff5393b1a)
+- [Create API Responses Easy with Laravel Apiful](https://medium.com/@prodemmi/create-api-responses-easily-with-apiful-738ff5393b1a)
+- [Deep Dive Into Flutter Pubspec](https://virgool.io/flutter-community/flutter-deep-dive-pubspec-r6mwk1rpzzau)
