@@ -16,10 +16,10 @@
 
 #### :man: About
 
-I am a full stack developer with at least 5 years of work experience.
-Familiarity with troubleshooting and debugging and experienced in setup and
+I am a Full-Stack developer with at least five years of work experience.
+Familiarity with troubleshooting and debugging and experience in setup and
 maintenance servers and able to carry out projects in group cooperation and individually.
-Interested in learning and progressing in the field of programming.
+I am interested in learning and progressing in the field of programming.
 
 ---
 
@@ -46,5 +46,5 @@ I am working on [CTG](https://github.com/prodemmi/CTG).
 ---
 
 ### ✍️ Blog Posts : 
-- [Create API Responses Easy with Laravel Apiful](https://medium.com/@prodemmi/create-api-responses-easily-with-apiful-738ff5393b1a)
+- [Creating API responses easily with Laravel Apiful](https://medium.com/@prodemmi/create-api-responses-easily-with-apiful-738ff5393b1a)
 - [Deep Dive Into Flutter Pubspec](https://virgool.io/flutter-community/flutter-deep-dive-pubspec-r6mwk1rpzzau)
