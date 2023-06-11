@@ -36,6 +36,7 @@ I am interested in learning and progressing in the field of programming.
  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="32" height="32"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="32" height="32"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="32" height="32"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="32" height="32"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="32" height="32"/>
 </div>
 
