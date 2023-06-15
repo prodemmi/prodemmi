@@ -47,5 +47,5 @@ I am working on [CTG](https://github.com/prodemmi/CTG).
 ---
 
 ### ✍️ Blog Posts : 
-- [Creating API responses easily with Laravel Apiful](https://medium.com/@prodemmi/create-api-responses-easily-with-apiful-738ff5393b1a)
-- [Deep Dive Into Flutter Pubspec](https://virgool.io/flutter-community/flutter-deep-dive-pubspec-r6mwk1rpzzau)
+- [Medium](https://medium.com/@prodemmi)
+- [Virgool](https://virgool.io/@prodemmi)
