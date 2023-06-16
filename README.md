@@ -12,16 +12,12 @@
 <!--   <p align="center"><img src="https://komarev.com/ghpvc/?username=prodemmi&style=flat-square&color=blue" alt=""></p> -->
 </div>
 
-<h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42"></h1>
-
 #### :man: About
 
 I am a Full-Stack developer with at least five years of work experience.
 Familiarity with troubleshooting and debugging and experience in setup and
-maintenance servers and able to carry out projects in group cooperation and individually.
+maintenance servers and ability to carry out projects in group cooperation and individually.
 I am interested in learning and progressing in the field of programming.
-
----
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -40,11 +36,10 @@ I am interested in learning and progressing in the field of programming.
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="32" height="32"/>
 </div>
 
----
+<br>
 
 I am working on [CTG](https://github.com/prodemmi/CTG).
-
----
+See more about me [here](http://prodemmi.netlify.app/).
 
 ### ✍️ Blog Posts : 
 - [Medium](https://medium.com/@prodemmi)
