@@ -38,7 +38,7 @@ I am interested in learning and progressing in the field of programming.
 
 <br>
 
-I am working on [CTG](https://github.com/prodemmi/CTG).
+I am working on [FilterItTool](https://github.com/FilterItTool/FilterItTool).
 See more about me [here](http://prodemmi.netlify.app/).
 
 ### ✍️ Blog Posts : 
