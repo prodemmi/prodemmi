@@ -9,3 +9,5 @@ A full-stack software engineer with at least 5 years of work experience.
 - [Virgool](https://virgool.io/@prodemmi)
 
 I am working on [FilterItTool](https://github.com/FilterItTool/FilterItTool) and [Docufy](https://github.com/docufy/docufy).
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prodemmi" alt="prodemmi" /> </p>
