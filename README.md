@@ -1,5 +1,5 @@
 ### <samp>&gt; Hi I'm Emad Malekpour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
-A full-stack software engineer with at least 5 years of work experience.
+I am a full-stack developer with at least 5 years of work experience.
 - Checkout my [LinkedIn](https://www.linkedin.com/in/emad-malekpour)
 - Checkout my personal site [MyCodingJourney](https://mycodingjourney.iran.liara.run/)
 - See more about me [here](http://prodemmi.netlify.app/)
