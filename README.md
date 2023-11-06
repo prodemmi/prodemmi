@@ -2,7 +2,7 @@
 I am a full-stack developer with at least 5 years of work experience.
 - Checkout my [LinkedIn](https://www.linkedin.com/in/emad-malekpour)
 - Checkout my personal site [MyCodingJourney](https://mycodingjourney.iran.liara.run/)
-- See more about me [here](http://prodemmi.netlify.app/)
+- Read more about me [here](http://prodemmi.netlify.app/)
   
 ### ✍️ Blog Accounts : 
 - [Medium](https://medium.com/@prodemmi)
